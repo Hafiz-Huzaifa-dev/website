@@ -3,7 +3,6 @@ import Home from "./Pages/Home";
 import About from "./Pages/About";
 import Service from "./component/Service-us";
 import Contact from "./Pages/Contact";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 
 
